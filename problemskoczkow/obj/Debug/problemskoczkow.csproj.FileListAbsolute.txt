@@ -1,0 +1,10 @@
+C:\Users\Matura_1\source\repos\problemskoczkow\problemskoczkow\bin\Debug\problemskoczkow.exe.config
+C:\Users\Matura_1\source\repos\problemskoczkow\problemskoczkow\bin\Debug\problemskoczkow.exe
+C:\Users\Matura_1\source\repos\problemskoczkow\problemskoczkow\bin\Debug\problemskoczkow.pdb
+C:\Users\Matura_1\source\repos\problemskoczkow\problemskoczkow\obj\Debug\problemskoczkow.csproj.AssemblyReference.cache
+C:\Users\Matura_1\source\repos\problemskoczkow\problemskoczkow\obj\Debug\problemskoczkow.Form1.resources
+C:\Users\Matura_1\source\repos\problemskoczkow\problemskoczkow\obj\Debug\problemskoczkow.Properties.Resources.resources
+C:\Users\Matura_1\source\repos\problemskoczkow\problemskoczkow\obj\Debug\problemskoczkow.csproj.GenerateResource.cache
+C:\Users\Matura_1\source\repos\problemskoczkow\problemskoczkow\obj\Debug\problemskoczkow.csproj.CoreCompileInputs.cache
+C:\Users\Matura_1\source\repos\problemskoczkow\problemskoczkow\obj\Debug\problemskoczkow.exe
+C:\Users\Matura_1\source\repos\problemskoczkow\problemskoczkow\obj\Debug\problemskoczkow.pdb
